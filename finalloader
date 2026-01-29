@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nofearscripts/op1/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nofearscripts/b4st/main/loader.lua"))()
